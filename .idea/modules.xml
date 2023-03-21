@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/swypex.iml" filepath="$PROJECT_DIR$/swypex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/swypex_android.iml" filepath="$PROJECT_DIR$/android/swypex_android.iml" />
+    </modules>
+  </component>
+</project>
